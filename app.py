@@ -14,7 +14,7 @@ workout = pd.read_csv("dataset/workout_df.csv")
 symptom_columns = df_train.columns[:-1]
 
 # Load model + encoder
-model = joblib.load("models/svc_model.pkl")
+model = joblib.load("models/xgboost_model.pkl")
 encoder = joblib.load("models/label_encoder.pkl")
 
 
