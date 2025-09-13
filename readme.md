@@ -3,8 +3,7 @@
 This is a **learning project** where I built an AI-powered medical recommendation system using **Machine Learning + Streamlit**.  
 The app takes user-selected symptoms, predicts the most likely disease, and provides **description, precautions, medications, diet plans, and workout recommendations** for that disease.  
 
-![Demo](demo.gif)  
-*(Replace this with your own video/GIF once recorded!)*  
+https://github.com/user-attachments/assets/1da5248e-72cb-41bd-96ed-75e9927bfcc9 
 
 ---
 ## 🌐 Live Demo  
